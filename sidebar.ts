@@ -21,7 +21,6 @@ export default [
     {
         text: 'Usage',
         items: [
-            { text: 'Rename theme', link: '/flex-home/theme-rename' },
             { text: 'Custom CSS/JS', link: '/flex-home/usage-custom-css-js' },
             { text: 'Translation', link: '/flex-home/usage-translation' },
             { text: 'Multi-language', link: '/flex-home/usage-multi-language' },
@@ -34,4 +33,10 @@ export default [
             { text: 'Setup social login', link: '/flex-home/usage-social-login' },
         ],
     },
+    {
+        text: 'Development',
+        items: [
+            { text: 'Rename theme', link: '/flex-home/theme-rename' },
+        ]
+    }
 ] satisfies DefaultTheme.SidebarItem[]
