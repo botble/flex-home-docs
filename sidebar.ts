@@ -31,6 +31,7 @@ export default [
             { text: 'Media - Setup Wasabi', link: '/flex-home/usage-media-wasabi' },
             { text: 'Setup email', link: '/flex-home/usage-email' },
             { text: 'Setup social login', link: '/flex-home/usage-social-login' },
+            { text: 'Setup cronjob', link: '/flex-home/cronjob' },
         ],
     },
     {
