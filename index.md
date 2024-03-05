@@ -19,9 +19,9 @@ Homepage: [https://flex-home.botble.com](https://flex-home.botble.com)
 
 Admin Area: [https://flex-home.botble.com/admin](https://flex-home.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Botble Team
 
